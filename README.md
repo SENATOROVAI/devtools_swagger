@@ -11,7 +11,6 @@
 task1-devtools/
 ├── description.md
 └── devtools.mp4
-
 task2-swagger/
 ├── comments.md
 ├── image.png
