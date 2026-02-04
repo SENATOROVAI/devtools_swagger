@@ -15,7 +15,8 @@ task1-devtools/
 task2-swagger/
 ├── comments.md
 ├── image.png
-└── swagger.mp4
+├── swagger_part1.mp4
+└── swagger_part2.mp4
 
 README.md
 ```
@@ -48,10 +49,13 @@ README.md
 - демонстрация ролевой модели доступа (ответ **403 Forbidden** для пользователя
   с ролью *студент* при попытке доступа к защищённым ресурсам)
 
+Видеозапись выполнения задания разделена на две части для удобства просмотра.
+
 ### Материалы:
-- `task2-swagger/swagger.mp4` — запись экрана с работой в Swagger UI  
+- `task2-swagger/swagger_part1.mp4` — авторизация и выполнение запросов  
+- `task2-swagger/swagger_part2.mp4` — анализ ограничений доступа и protected API  
 - `task2-swagger/image.png` — скриншот ответа API с ошибкой доступа  
-- `task2-swagger/comments.md` — комментарии и пояснения к выполненным действиям
+- `task2-swagger/comments.md` — комментарии и пояснения
 
 ---
 
